@@ -42,3 +42,10 @@ The cipher suites are as defined in the [IETF spec](https://datatracker.ietf.org
 1. proof(sk) -> &theta; &isin; G2: create a proof of possession in G2
 1. proof_vt(sk) -> &theta; &isin; G1: create a proof of possession in G1
 
+# BBS+
+
+# CDLNT
+
+# Accumulator
+
+# Bulletproofs
